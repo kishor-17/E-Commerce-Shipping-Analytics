@@ -11,3 +11,4 @@ Dataset : https://www.kaggle.com/datasets/prachi13/customer-analytics
 
 Dashboard Link : https://lookerstudio.google.com/u/0/reporting/f47533bd-2d91-4359-8baa-69ae622f0179/page/6zXD
 
+![image](https://user-images.githubusercontent.com/76257893/219948089-176bda07-59e2-46ef-bb17-ef495b08a1d9.png)

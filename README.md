@@ -9,4 +9,5 @@ Designed an interactive dashboard using Google Data Studio to help the company g
 
 Dataset : https://www.kaggle.com/datasets/prachi13/customer-analytics
 
-Dashboard Link : https://sites.google.com/psgtech.ac.in/shipping-analytics/home
+Dashboard Link : https://lookerstudio.google.com/u/0/reporting/f47533bd-2d91-4359-8baa-69ae622f0179/page/6zXD
+
